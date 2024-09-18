@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011521839302",
+    "project_id": "countryfirebase-d966e",
+    "storage_bucket": "countryfirebase-d966e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011521839302:android:93fc8d8711fc2afcb8b7c7",
+        "android_client_info": {
+          "package_name": "com.restcountry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWR_iIBRE6b9tIMMmywqRz8oQqTKp0d1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
